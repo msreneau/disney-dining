@@ -1,8 +1,15 @@
 # Disney Dining & Snack Finder
 
-Upload `index.html` and `restaurants.json` to the root of the GitHub repository.
+Files:
+- `index.html` main family app
+- `admin.html` browser-based family editor
+- `restaurants.json` shared data
 
-## Updating ratings and notes
-Edit `restaurants.json` on GitHub, or update the Excel workbook and regenerate the JSON file. Commit changes and refresh the GitHub Pages site.
+## Family editing workflow
+1. Open `admin.html` from the GitHub Pages address.
+2. Set ratings, Wishlist, and notes.
+3. Select **Download Updated restaurants.json**.
+4. In GitHub, upload the downloaded `restaurants.json` and replace the existing one.
+5. Commit the change and refresh the main app.
 
-Keep both filenames unchanged.
+GitHub Pages is static, so the admin page downloads the update; it does not write directly to GitHub.
