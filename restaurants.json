@@ -18,7 +18,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/",
       "MapURL": "https://maps.apple.com/?q=Casey%27s+Corner+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-CHH",
@@ -27,13 +35,21 @@
       "Land": "Liberty Square",
       "Location": "Columbia Harbour House",
       "Item": "",
-      "Rating": 5,
-      "Wishlist": "Yes",
+      "Rating": 3,
+      "Wishlist": "No",
       "Notes": "Unrated; review with family.",
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/columbia-harbour-house/",
       "MapURL": "https://maps.apple.com/?q=Columbia+Harbour+House+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-COSMIC",
@@ -48,7 +64,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/cosmic-ray-starlight-cafe/",
       "MapURL": "https://maps.apple.com/?q=Cosmic+Ray%27s+Starlight+Cafe+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-FRIAR",
@@ -63,7 +87,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/friars-nook/",
       "MapURL": "https://maps.apple.com/?q=The+Friar%27s+Nook+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-GOLDEN",
@@ -78,7 +110,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/golden-oak-outpost/",
       "MapURL": "https://maps.apple.com/?q=Golden+Oak+Outpost+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-PECOS",
@@ -93,7 +133,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/",
       "MapURL": "https://maps.apple.com/?q=Pecos+Bill+Tall+Tale+Inn+and+Cafe+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-PINOC",
@@ -108,7 +156,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/pinocchio-village-haus/",
       "MapURL": "https://maps.apple.com/?q=Pinocchio+Village+Haus+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-SLEEPY",
@@ -123,7 +179,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/sleepy-hollow/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Sleepy+Hollow+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-TERRACE",
@@ -138,7 +202,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/tomorrowland-terrace-restaurant/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/tomorrowland-terrace-restaurant/",
       "MapURL": "https://maps.apple.com/?q=Tomorrowland+Terrace+Restaurant+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-CONN",
@@ -153,7 +225,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/epcot/connections-eatery/",
       "MapURL": "https://maps.apple.com/?q=Connections+Eatery+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-CANTINA",
@@ -168,7 +248,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/cantina-de-san-angel/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=La+Cantina+de+San+Angel+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-KRINGLA",
@@ -183,7 +271,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/kringla-bakeri-og-kafe/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Kringla+Bakeri+Og+Kafe+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-LOTUS",
@@ -198,7 +294,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/lotus-blossom-cafe/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Lotus+Blossom+Cafe+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-SOMMER",
@@ -213,7 +317,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/sommerfest/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Sommerfest+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-REGAL",
@@ -228,7 +340,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/epcot/regal-eagle-smokehouse/",
       "MapURL": "https://maps.apple.com/?q=Regal+Eagle+Smokehouse+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": true,
+        "Tammy": true,
+        "Piper": true,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-KATSURA",
@@ -243,7 +363,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/katsura-grill/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Katsura+Grill+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-TANG",
@@ -258,7 +386,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/tangierine-cafe/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Tangierine+Cafe+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-LES-HALLES",
@@ -267,13 +403,21 @@
       "Land": "France Pavilion",
       "Location": "Les Halles Boulangerie-Patisserie",
       "Item": "",
-      "Rating": 3,
-      "Wishlist": "No",
-      "Notes": "Unrated; review with family.",
+      "Rating": 5,
+      "Wishlist": "Yes",
+      "Notes": "Breakfast croissant",
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/les-halles-boulangerie-patisserie/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Les+Halles+Boulangerie-Patisserie+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": true,
+        "Tammy": true,
+        "Piper": true,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-CREPES",
@@ -288,7 +432,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/crepes-a-emporter/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Crepes+A+Emporter+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-YORKSHIRE",
@@ -303,7 +455,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/yorkshire-county-fish-shop/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Yorkshire+County+Fish+Shop+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-REFRESH",
@@ -318,7 +478,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/refreshment-port/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Refreshment+Port+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-SUNSHINE",
@@ -333,7 +501,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/sunshine-seasons/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Sunshine+Seasons+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-ABC",
@@ -348,7 +524,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/",
       "MapURL": "https://maps.apple.com/?q=ABC+Commissary+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-BACKLOT",
@@ -363,7 +547,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/",
       "MapURL": "https://maps.apple.com/?q=Backlot+Express+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-CATALINA",
@@ -378,7 +570,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/",
       "MapURL": "https://maps.apple.com/?q=Catalina+Eddie%27s+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-DB7",
@@ -393,7 +593,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/",
       "MapURL": "https://maps.apple.com/?q=Docking+Bay+7+Food+and+Cargo+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-DOCKSIDE",
@@ -408,7 +616,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/",
       "MapURL": "https://maps.apple.com/?q=Dockside+Diner+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-FAIRFAX",
@@ -423,7 +639,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/",
       "MapURL": "https://maps.apple.com/?q=Fairfax+Fare+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-RONTO",
@@ -438,7 +662,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/",
       "MapURL": "https://maps.apple.com/?q=Ronto+Roasters+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-ROSIES",
@@ -453,7 +685,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/",
       "MapURL": "https://maps.apple.com/?q=Rosie%27s+All-American+Cafe+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-WOODY",
@@ -468,7 +708,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunch-box/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunch-box/",
       "MapURL": "https://maps.apple.com/?q=Woody%27s+Lunch+Box+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-FLAME",
@@ -483,7 +731,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/",
       "MapURL": "https://maps.apple.com/?q=Flame+Tree+Barbecue+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-HARAMBE",
@@ -498,7 +754,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/",
       "MapURL": "https://maps.apple.com/?q=Harambe+Market+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-PIZZA",
@@ -513,7 +777,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/",
       "MapURL": "https://maps.apple.com/?q=Pizzafari+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-SATULI",
@@ -528,7 +800,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/",
       "MapURL": "https://maps.apple.com/?q=Satu%27li+Canteen+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-YAKLOCAL",
@@ -543,7 +823,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-food-cafes/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-food-cafes/",
       "MapURL": "https://maps.apple.com/?q=Yak+%26+Yeti+Local+Food+Cafes+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-ALOHA",
@@ -558,7 +846,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/aloha-isle/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Aloha+Isle+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-SPRING",
@@ -573,7 +869,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/adventureland-spring-roll-cart/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Adventureland+Spring+Roll+Cart+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-AUNTIE",
@@ -588,7 +892,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Auntie+Gravity%27s+Galactic+Goodies+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-CHESHIRE",
@@ -603,7 +915,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/cheshire-cafe/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Cheshire+Cafe+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-ENERGY",
@@ -618,7 +938,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/energy-bytes/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Energy+Bytes+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-GASTON",
@@ -633,7 +961,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/gastons-tavern/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Gaston%27s+Tavern+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-LSM",
@@ -648,7 +984,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/liberty-square-market/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Liberty+Square+Market+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-MAINST",
@@ -663,7 +1007,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-confectionery/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Main+Street+Confectionery+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-PLAZA",
@@ -678,7 +1030,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Plaza+Ice+Cream+Parlor+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-SUNSHINE",
@@ -693,7 +1053,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/sunshine-tree-terrace/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Sunshine+Tree+Terrace+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-STORYBOOK",
@@ -708,7 +1076,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/storybook-treats/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Storybook+Treats+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-STARBUCKS",
@@ -723,7 +1099,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-bakery/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Main+Street+Bakery+-+Starbucks+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-STARBUCKS",
@@ -738,7 +1122,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/connections-cafe/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Connections+Cafe+-+Starbucks+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-KARAMELL",
@@ -753,7 +1145,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/karamell-kuche/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Karamell-Kuche+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-GELATO",
@@ -768,7 +1168,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/gelateria-toscana/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Gelateria+Toscana+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-FUNNEL",
@@ -783,7 +1191,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/funnel-cake/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Funnel+Cake+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-LARTISAN",
@@ -798,7 +1214,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/lartisan-des-glaces/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=L%27Artisan+des+Glaces+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-KABUKI",
@@ -813,7 +1237,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/kabuki-cafe/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Kabuki+Cafe+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-JOFF-SHOW",
@@ -828,7 +1260,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/espresso-coffee-pastries-disney-traders/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Joffrey%27s+Coffee+%26+Tea+Company+-+Showcase+Plaza+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-JOFF-DISC",
@@ -843,7 +1283,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/espresso-coffee-pastries-world-discovery/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Joffrey%27s+Coffee+%26+Tea+Company+-+World+Discovery+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-JOFF-AMER",
@@ -858,7 +1306,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/espresso-coffee-pastries-american-adventure/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Joffrey%27s+Coffee+%26+Tea+Company+-+American+Adventure+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-JOFF-CAN",
@@ -873,7 +1329,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/espresso-coffee-pastries-canada/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Joffrey%27s+Coffee+%26+Tea+Company+-+Canada+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-ANAHEIM",
@@ -888,7 +1352,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Anaheim+Produce+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-EPIC",
@@ -903,7 +1375,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Epic+Eats+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-HSCOOPS",
@@ -918,7 +1398,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-scoops/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Hollywood+Scoops+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-KATSAKA",
@@ -933,7 +1421,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Kat+Saka%27s+Kettle+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-MARKET",
@@ -948,7 +1444,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Market+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-MILK",
@@ -963,7 +1467,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Milk+Stand+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-NUMNUM",
@@ -978,7 +1490,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Neighborhood+Bakery+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-TROLLEY",
@@ -993,7 +1513,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=The+Trolley+Car+Cafe+-+Starbucks+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-JOFFREY",
@@ -1008,7 +1536,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Joffrey%27s+Coffee+%26+Tea+Company+-+Park+Entrance+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-ANAND",
@@ -1023,7 +1559,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/anandapur-ice-cream-truck/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Anandapur+Ice+Cream+Truck+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-CARAVAN",
@@ -1038,7 +1582,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/caravan-road/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Caravan+Road+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-STARBUCKS",
@@ -1053,7 +1605,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Creature+Comforts+-+Starbucks+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-EIGHTSPOON",
@@ -1068,7 +1628,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/eight-spoon-cafe/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Eight+Spoon+Cafe+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-FRUIT",
@@ -1083,7 +1651,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/harambe-fruit-market/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Harambe+Fruit+Market+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-ISLEJAVA",
@@ -1098,7 +1674,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Isle+of+Java+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-KUSAFIRI",
@@ -1113,7 +1697,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Kusafiri+Coffee+Shop+%26+Bakery+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-PONGU",
@@ -1128,7 +1720,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/pongu-pongu/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Pongu+Pongu+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-SMILING",
@@ -1143,7 +1743,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=The+Smiling+Crocodile+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-TAMU",
@@ -1158,7 +1766,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/tamu-tamu-refreshments/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Tamu+Tamu+Refreshments+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-JOFFREY",
@@ -1173,7 +1789,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Joffrey%27s+Coffee+%26+Tea+Company+-+Park+Entrance+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-POPCORN",
@@ -1188,7 +1812,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/main-street-popcorn-cart/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Main+Street+Popcorn+Cart+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "MK-COOLSHIP",
@@ -1203,7 +1835,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/cool-ship/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Cool+Ship+Magic+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-CHOZA",
@@ -1218,7 +1858,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/choza-de-margarita/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Choza+de+Margarita+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "EP-UKCART",
@@ -1233,7 +1881,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/epcot/uk-beer-cart/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=UK+Beer+Cart+EPCOT",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-ICECOLD",
@@ -1248,7 +1904,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Ice+Cold+Hydraulics+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "HS-FROZEN",
@@ -1263,7 +1927,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-boulevard-popcorn-cart/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Hollywood+Boulevard+Popcorn+Cart+Hollywood+Studios",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-DRINKWALLAH",
@@ -1278,7 +1950,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/drinkwallah/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Drinkwallah+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     },
     {
       "ID": "AK-MAHINDI",
@@ -1293,7 +1973,15 @@
       "MenuURL": "https://disneyworld.disney.go.com/dining/animal-kingdom/mahindi/menus/",
       "MobileOrderURL": "",
       "MapURL": "https://maps.apple.com/?q=Mahindi+Animal+Kingdom",
-      "Active": "Yes"
+      "Active": "Yes",
+      "People": {
+        "Mike": false,
+        "Tammy": false,
+        "Piper": false,
+        "Fred": false,
+        "Stacy": false,
+        "Evelyn": false
+      }
     }
   ]
 }
