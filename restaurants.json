@@ -14,7 +14,7 @@
       "Item": "",
       "Rating": 3,
       "Wishlist": "No",
-      "Notes": "Unrated; review with family.",
+      "Notes": "$1 plastic cheese\n",
       "MenuURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/menus/",
       "MobileOrderURL": "https://disneyworld.disney.go.com/dining/magic-kingdom/caseys-corner/",
       "MapURL": "https://maps.apple.com/?q=Casey%27s+Corner+Magic+Kingdom",
@@ -26,7 +26,8 @@
         "Fred": false,
         "Stacy": false,
         "Evelyn": false
-      }
+      },
+      "lastVerified": "2026-10-09"
     },
     {
       "ID": "MK-CHH",
